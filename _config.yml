@@ -12,4 +12,4 @@ github_username:  tiy-gvl-python
 
 # Build settings
 markdown: kramdown
-highlighter: rouge
+highlighter: none
