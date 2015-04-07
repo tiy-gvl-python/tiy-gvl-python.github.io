@@ -1,0 +1,15 @@
+# Site settings
+title: The Iron Yard Greenville Python
+email: joel@theironyard.com
+description: > # this means to ignore newlines until "baseurl:"
+  Website for The Iron Yard Greenville Python course.  All prework
+  syllabus and instructions for getting your computer ready can be found
+  here.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://tiy-gvl-python.github.io" # the base hostname & protocol for your site
+twitter_username: theironyard
+github_username:  tiy-gvl-python
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
