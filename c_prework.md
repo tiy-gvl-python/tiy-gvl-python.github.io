@@ -46,7 +46,7 @@ Sign up for an account at [Treehouse](http://referrals.trhou.se/joeltaddei). Sig
 ## Topic 1: Your Brain
 
 * [Fixed vs. Growth: The Two Basic Mindsets That Shape Our Lives](http://www.brainpickings.org/2014/01/29/carol-dweck-mindset/)
-* [Top-down thinkers vs Bottom-up thinkers](http://en.wikipedia.org/wiki/Top-down_and_bottom-up_design#Programming) - Read from the top down through the "Programming" section (2.2) of this page.
+* [Top-down thinkers vs Bottom-up thinkers](http://en.wikipedia.org/wiki/Top-down_and_bottom-up_design) - Read from the top down through the "Programming" section (2.2) of this page.
 
 After reading these articles, please fill out the following survey:
 
