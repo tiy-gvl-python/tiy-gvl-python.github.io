@@ -15,7 +15,7 @@ Joel Taddei
 
 ## Schedule
 
-Class is from May 26th to TBD.
+Class is from May 26th to August 14th.
 
 Lecture is from 9 AM to 12:30 PM Monday-Thursday, with breaks during that time. Depending on the topic, we may end early. We may alter this schedule for particular days and will let you know at least 24 hours ahead of time.
 
