@@ -120,7 +120,8 @@ You will be working on your final project and presentation during this time.
 
 ## Capstone project
 
-During the last three weeks of the course, you will be working on your capstone project, putting all you've learned into practice. You will be working in a group of 2-5 people on your project.
+During the last three weeks of the course, you will be working on your capstone project, putting all you've learned into practice.
+You will be working solo or in a group of 2-3 people on your project.
 
 At the end of week 9, you'll present your idea for a final project and get feedback. Not all ideas presented will become final projects: the projects will be determined by TIY staff after all ideas are presented. During weeks 10, 11 and 12, you'll work primarily on your capstone project.
 
