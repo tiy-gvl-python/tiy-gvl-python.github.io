@@ -15,15 +15,18 @@ Joel Taddei
 
 ## Schedule
 
-Class is from May 26th to August 14th.
+Class is from September 14th to August 14th.
 
-Lecture is from 9 AM to 12:30 PM Monday-Thursday, with breaks during that time. Depending on the topic, we may end early. We may alter this schedule for particular days and will let you know at least 24 hours ahead of time.
+Lecture is from 9 AM to 12:30 PM Monday-Thursday, with breaks during that time. Depending on the topic, we may end
+early. We may alter this schedule for particular days and will let you know at least 24 hours ahead of time.
 
 Lab is from 1 PM to 5 PM Monday-Thursday and 9 AM - 5 PM on Friday.
 
 ### Office hours and one-on-one instruction
 
-A teacher or TA will be available Monday-Friday from 9 AM to 5 PM at minimum. During lab time, you can schedule one-on-one time with either of us. After hours, we may be available in the classroom or in Slack, which we use for group communication.
+A teacher or TA will be available Monday-Friday from 9 AM to 5 PM at minimum. During lab time, you can schedule
+one-on-one time with either of us. After hours, we may be available in the classroom or in Slack, which we use for
+group communication.
 
 ### Holidays
 
@@ -31,7 +34,8 @@ We will take off May 25th for Memorial Day and July 3rd for Independence Day.
 
 ## Topics
 
-These topics are listed week-by-week. However, this list is not definitive and we will reorder things based off how the class is going.
+These topics are listed week-by-week. However, this list is not definitive and we will reorder things based off how
+the class is going.
 
 Each list of topics is a list of things students should be comfortable with at the end of that week.
 
@@ -103,11 +107,13 @@ By the end of this week, students should be comfortable with:
 
 ### Week 9
 
-This week is a week for review and catch-up. Things will fall through the cracks during the previous 8 weeks, and so we have this week as a flex week to make sure we cover everything you need.
+This week is a week for review and catch-up. Things will fall through the cracks during the previous 8 weeks, and so
+we have this week as a flex week to make sure we cover everything you need.
 
 ### Week 10
 
-During this week, you will be pitching your final project ideas, forming groups, and getting feedback. In class, we will cover some software development principles. You should be comfortable with:
+During this week, you will be pitching your final project ideas, forming groups, and getting feedback. In class,
+we will cover some software development principles. You should be comfortable with:
 
 * Breaking up features into distinct tasks to work on
 * Estimating the size of programming tasks
@@ -120,18 +126,26 @@ You will be working on your final project and presentation during this time.
 
 ## Capstone project
 
-During the last three weeks of the course, you will be working on your capstone project, putting all you've learned into practice.
+During the last three weeks of the course, you will be working on your capstone project, putting all you've learned
+into practice.
+
 You will be working solo or in a group of 2-3 people on your project.
 
-At the end of week 9, you'll present your idea for a final project and get feedback. Not all ideas presented will become final projects: the projects will be determined by TIY staff after all ideas are presented. During weeks 10, 11 and 12, you'll work primarily on your capstone project.
+At the end of week 9, you'll present your idea for a final project and get feedback. Not all ideas presented will
+become final projects: the projects will be determined by TIY staff after all ideas are presented. During weeks 10, 11
+and 12, you'll work primarily on your capstone project.
 
-This project must use Python. It can be a data project, a web project, a systems programming project, or something else! Because this is a general-purpose programming course, the choices are wide. If you are not working on a project with a strong visual component, I _highly_ suggest thinking about working with someone from another class to make your project visual.
+This project must use Python. It can be a data project, a web project, a systems programming project, or
+something else! Because this is a general-purpose programming course, the choices are wide. If you are not working on
+a project with a strong visual component, I _highly_ suggest thinking about working with someone from another class to
+make your project visual.
 
 ## Policies
 
 ### Absence policy
 
-You can miss up to 4 lectures; after that, your graduation and enrollment in the job placement program is forfeit. I don't recommend missing any, as we will be moving very fast.
+You can miss up to 4 lectures; after that, your graduation and enrollment in the job placement program is forfeit.
+I don't recommend missing any, as we will be moving very fast.
 
 ### Homework policy
 
@@ -143,21 +157,29 @@ All homework assigned by your instructor must be completed for graduation.
 
 ### Honor code
 
-You are expected to do your own work. You should use all resources available to you, including open-source code, but copy and pasting open-source code is prohibited: you should use it only for inspiration or as a library in a bigger project.
+You are expected to do your own work. You should use all resources available to you, including open-source code, but
+copy and pasting open-source code is prohibited: you should use it only for inspiration or as a library in a bigger
+project.
 
 Copying homework is taken very seriously and can result in forfeiting job placement or explusion.
 
 ## Code of conduct
 
-Like the technical community as a whole, classes at The Iron Yard are made up of a mixture of people from all different backgrounds.
+Like the technical community as a whole, classes at The Iron Yard are made up of a mixture of people from all
+different backgrounds.
 
-Diversity is one of our huge strengths, but it can also lead to communication issues. To that end, we have a few ground rules that we ask people to adhere to when they're taking a class at The Iron Yard. These rules apply equally to teachers, students, other staff, and guest lecturers.
+Diversity is one of our huge strengths, but it can also lead to communication issues. To that end, we have a few
+ground rules that we ask people to adhere to when they're taking a class at The Iron Yard. These rules apply equally
+to teachers, students, other staff, and guest lecturers.
 
-This isn't an exhaustive list of things that you can't do. Rather, take it in the spirit in which it's intended - a guide to make it easier to enrich all of us, the technical communities in which we participate.
+This isn't an exhaustive list of things that you can't do. Rather, take it in the spirit in which it's intended -
+a guide to make it easier to enrich all of us, the technical communities in which we participate.
 
-This code of conduct applies to all communication: this includes in class, Slack, email, and other forums such as Skype, Google+ Hangouts, etc.
+This code of conduct applies to all communication: this includes in class, Slack, email, and other forums such as
+Skype, Google+ Hangouts, etc.
 
-If you believe someone is violating the code of conduct, we ask that you report it by talking to your instructor. If you do not feel comfortable talking to your instructor, speak with any Iron Yard instructor or staff member.
+If you believe someone is violating the code of conduct, we ask that you report it by talking to your instructor.
+If you do not feel comfortable talking to your instructor, speak with any Iron Yard instructor or staff member.
 
 * **Be welcoming, friendly, and patient.**
 
