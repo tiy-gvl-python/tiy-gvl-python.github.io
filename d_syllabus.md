@@ -15,7 +15,7 @@ Joel Taddei
 
 ## Schedule
 
-Class is from September 14th to August 14th.
+Class is from September 14th to December 11th.
 
 Lecture is from 9 AM to 12:30 PM Monday-Thursday, with breaks during that time. Depending on the topic, we may end
 early. We may alter this schedule for particular days and will let you know at least 24 hours ahead of time.
@@ -30,7 +30,7 @@ group communication.
 
 ### Holidays
 
-We will take off May 25th for Memorial Day and July 3rd for Independence Day.
+We will take off `Days to be determined`
 
 ## Topics
 
