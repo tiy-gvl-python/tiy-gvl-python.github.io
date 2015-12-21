@@ -15,7 +15,7 @@ Joel Taddei
 
 ## Schedule
 
-Class is from September 14th to December 11th.
+Class is from February 1st to `TBD`.
 
 Lecture is from 9 AM to 12:30 PM Monday-Thursday, with breaks during that time. Depending on the topic, we may end
 early. We may alter this schedule for particular days and will let you know at least 24 hours ahead of time.
@@ -61,49 +61,51 @@ By the end of this week, students should be comfortable with:
 
 ### Week 3
 
-* Stochastic programming
-* Randomness
-* Monte Carlo simulations
-* Plotting
-* NumPy
-* Simple statistics
-* Basic statistical inquiry
+* Intro to SQL
+* Relational databases
+* Intro to Web Programming w/ Python
+* Flask
+* Django
+* Structuring Data for Web Applications
 
 ### Week 4
 
+* HTML
+* CSS
 * Regular expressions
-* Loading and manipulating data with pandas
-* Common data formats
-* Publicly available data sets
-* Data set quality
-* Cleaning data sets
+* URL Routing
+* Views
+* Forms
+* User Authentication
 
 ### Week 5
 
-* Machine learning
-* Bayesian statistics and classification
-* Clustering
+* Frontend Web Design
+* CSS Frameworks (Bootstrap / Materialize)
+* Working with premade templates
+* Static Files
+* Media Files
 
 ### Week 6
 
-* HTML
-* CSS
-* Introduction to Django
-* Relational databases
-* Modeling
-* Forms
+* Introduction to APIs
+* Introduction to Django REST Framework
+* API Views
+* API Serializers
+* API Authentication / Permissions
 
 ### Week 7
 
-* Advanced database design
-* Deployment
-* Building REST APIs
+* Web Application Deployment w/ Amazon Web Services
+* Gunicorn / Nginx configuration
+* Consuming REST APIs
 
 ### Week 8
 
-* JavaScript
-* Consuming REST APIs
-* Data visualization on the Web
+* Asynchronous Task Queues w/ Celery
+* Search w/ ElasticSearch and Haystack
+* Introduction to JavaScript
+* jQuery
 
 ### Week 9
 
@@ -135,10 +137,9 @@ At the end of week 9, you'll present your idea for a final project and get feedb
 become final projects: the projects will be determined by TIY staff after all ideas are presented. During weeks 10, 11
 and 12, you'll work primarily on your capstone project.
 
-This project must use Python. It can be a data project, a web project, a systems programming project, or
-something else! Because this is a general-purpose programming course, the choices are wide. If you are not working on
-a project with a strong visual component, I _highly_ suggest thinking about working with someone from another class to
-make your project visual.
+This project must use Python. It also must be a web project and it is optional that you team up with other backend
+or frontend students.  If you are not working on a project with a strong visual component,
+I _highly_ suggest thinking about working with someone from another class to make your project visual.
 
 ## Policies
 
