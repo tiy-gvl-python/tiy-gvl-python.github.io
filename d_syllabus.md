@@ -15,7 +15,7 @@ Joel Taddei
 
 ## Schedule
 
-Class is from February 1st to `TBD`.
+Class is from February 1st to April 22nd.
 
 Lecture is from 9 AM to 12:30 PM Monday-Thursday, with breaks during that time. Depending on the topic, we may end
 early. We may alter this schedule for particular days and will let you know at least 24 hours ahead of time.
@@ -30,7 +30,7 @@ group communication.
 
 ### Holidays
 
-We will take off `Days to be determined`
+We will take off February 15th for Presidents day.
 
 ## Topics
 
