@@ -1,8 +1,9 @@
---
+---
 layout: page
 title: Mac Setup
 permalink: /setup/
 ---
+
 All students must bring their own MacBook laptop. Your MacBook should have a minimum of 4 GB of RAM and 128 GB of hard
 drive space. Those are minimum specs, and I recommend getting 8 GB of RAM and a 256 GB hard drive, but that’s your
 choice to make. Any MacBook model (including Air and Pro) made in 2012 or after will work well. If you already own a
