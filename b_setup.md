@@ -1,7 +1,6 @@
 --
 layout: page
 title: Mac Setup
-comments: yes
 permalink: /setup/
 ---
 All students must bring their own MacBook laptop. Your MacBook should have a minimum of 4 GB of RAM and 128 GB of hard
