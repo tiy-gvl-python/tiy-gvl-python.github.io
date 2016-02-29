@@ -63,7 +63,7 @@ me know via email and I can help you make that happen.
 
 After reading these articles, please fill out the following survey:
 
-* [Prework Survey 1](https://docs.google.com/forms/d/1bbVDgsDjrPLKsd90k2uWDaHpOkyVhjj8FLFsW4_SXnk/viewform)
+* [Prework Survey 1](https://docs.google.com/forms/d/1mgYEYxS2FXvLNV9upkthUsl2t7cowUbS8OyfZ-AlbM4/viewform)
 
 ## Topic 2: Python
 
@@ -117,7 +117,7 @@ momentum when we shift from pure Python to Django.
 
 Once you have finished the prework given above, complete the following survey:
 
-* [Prework Survey 2](https://docs.google.com/forms/d/1PUFCxhZfUBQnjcGNrRWRNaPCSjVUvNTbKFqf7Lsl0p0/viewform)
+* [Prework Survey 2](https://docs.google.com/forms/d/1gBmgjmj0Bf8_58koIyxc7mTOk4XGFznEfq1DEwO-l_o/viewform)
 
 Whew, you did it. Now, your only remaining assignment is to get some sleep before class starts. You're going to need it!
 
