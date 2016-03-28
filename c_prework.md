@@ -18,8 +18,8 @@ believed that, you probably wouldn’t be coming to The Iron Yard). However, ski
 this work will help introduce you to some of the ideas and skills that will form the foundation of your in-person
 learning experience.
 
-This work should be completed by May 19. I will assume that you have completed this work before class, so you will
-likely feel very far behind if you haven’t finished when we start class on May 26th. If you have ANY questions at all,
+This work should be completed by May 9th. I will assume that you have completed this work before class, so you will
+likely feel very far behind if you haven’t finished when we start class on May 16th. If you have ANY questions at all,
 please reach out to me at joel@theironyard.com.
 
 In order to complete some of these tasks, you will need to [register for an account with Treehouse](http://referrals.trhou.se/joeltaddei). Treehouse is free for 14 days (which should be more than enough to finish the required courses), and is $25/month after the trial.
